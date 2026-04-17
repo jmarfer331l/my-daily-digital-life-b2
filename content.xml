@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260417132642J45F43</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260417132642CZ574X</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>My Daily Digital Life: Ciudadanía Digital y Rutinas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Jesús Martín Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje centrada en la seguridad digital, protección de datos y uso de licencias, donde el alumnado diseñará una infografía interactiva que sirva de guía de buenas prácticas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776425127552</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo2tnkth-o5xwavpte</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del Proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2tnkth-o5xwavpte</odePageId>
+      <odeBlockId>block-1775575845870-yfcgxakzf</odeBlockId>
+      <blockName>¡Bienvenidos a My Daily Digital Life!</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2tnkth-o5xwavpte</odePageId>
+          <odeBlockId>block-1775575845870-yfcgxakzf</odeBlockId>
+          <odeIdeviceId>idevice-1775575845868-klm4yaj62</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola, creadores digitales! ¿Estáis listos para convertiros en auténticos expertos tecnológicos y ciudadanos digitales responsables? Nuestra Misión: Nuestro proyecto se centra en aprender sobre rutinas diarias y seguridad en la red de una forma muy divertida. Trabajaremos resolviendo retos técnicos (como configurar y gestionar nuestros equipos) y usando la tecnología con cabeza (siendo detectives de palabras y evitando el "copiar y pegar").</p>
+<p><strong>¿Para quién?: </strong>Para el alumnado de los últimos cursos. A esta edad ya sois capaces de dar un paso más en vuestra autonomía digital.</p>
+<p><a href="https://canva.link/rhgzqxflwtgjyfl">https://canva.link/rhgzqxflwtgjyfl</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775575845868-klm4yaj62","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola, creadores digitales! ¿Estáis listos para convertiros en auténticos expertos tecnológicos y ciudadanos digitales responsables? Nuestra Misión: Nuestro proyecto se centra en aprender sobre rutinas diarias y seguridad en la red de una forma muy divertida. Trabajaremos resolviendo retos técnicos (como configurar y gestionar nuestros equipos) y usando la tecnología con cabeza (siendo detectives de palabras y evitando el \"copiar y pegar\").</p>\n<p><strong>¿Para quién?: </strong>Para el alumnado de los últimos cursos. A esta edad ya sois capaces de dar un paso más en vuestra autonomía digital.</p>\n<p><a href=\"https://canva.link/rhgzqxflwtgjyfl\">https://canva.link/rhgzqxflwtgjyfl</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mo2tnkth-o5xwavpte</odePageId>
+          <odeBlockId>block-1775575845870-yfcgxakzf</odeBlockId>
+          <odeIdeviceId>idevice-1776421475045-3xnnkkyqz</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/1.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/1.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/2.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/3.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/3.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/4.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/4.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/5.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/5.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/6.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_6" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/7.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/7.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_7" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/8.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/8.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_8" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/9.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/9.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_9" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/10.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/10.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_10" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/11.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/11.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_11" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/12.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/12.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_12" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/13.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/13.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_13" class="imageContainer"> <a idevice-id="idevice-1776421475045-3xnnkkyqz" title="" href="{{context_path}}/content/resources/14.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/14.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776421475045-3xnnkkyqz","img_0":{"img":"{{context_path}}/content/resources/1.png","thumbnail":"{{context_path}}/content/resources/1.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/2.png","thumbnail":"{{context_path}}/content/resources/2.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/3.png","thumbnail":"{{context_path}}/content/resources/3.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/4.png","thumbnail":"{{context_path}}/content/resources/4.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/5.png","thumbnail":"{{context_path}}/content/resources/5.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/6.png","thumbnail":"{{context_path}}/content/resources/6.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_6":{"img":"{{context_path}}/content/resources/7.png","thumbnail":"{{context_path}}/content/resources/7.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_7":{"img":"{{context_path}}/content/resources/8.png","thumbnail":"{{context_path}}/content/resources/8.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_8":{"img":"{{context_path}}/content/resources/9.png","thumbnail":"{{context_path}}/content/resources/9.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_9":{"img":"{{context_path}}/content/resources/10.png","thumbnail":"{{context_path}}/content/resources/10.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_10":{"img":"{{context_path}}/content/resources/11.png","thumbnail":"{{context_path}}/content/resources/11.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_11":{"img":"{{context_path}}/content/resources/12.png","thumbnail":"{{context_path}}/content/resources/12.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_12":{"img":"{{context_path}}/content/resources/13.png","thumbnail":"{{context_path}}/content/resources/13.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_13":{"img":"{{context_path}}/content/resources/14.png","thumbnail":"{{context_path}}/content/resources/14.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2tnkto-op74qi4a1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad y Derechos Digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y Derechos Digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y Derechos Digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2tnkto-op74qi4a1</odePageId>
+      <odeBlockId>block-1775576247686-cmouxuul9</odeBlockId>
+      <blockName>Navega Seguro: Identidad y Derechos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2tnkto-op74qi4a1</odePageId>
+          <odeBlockId>block-1775576247686-cmouxuul9</odeBlockId>
+          <odeIdeviceId>idevice-1775576247685-6gj0qcl9s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este espacio aprenderemos las reglas de oro para cuidarnos en internet:</p>
+<ul>
+<li><strong>Crea y Comparte con Responsabilidad (Licencias): </strong>Respeta la autoría citando siempre la fuente original. Busca recursos libres (Creative Commons o Dominio Público) y recuerda licenciar tus propias creaciones porque ¡tú también eres autor/a!.</li>
+<li><strong>Derechos y Garantías Digitales:</strong> Tienes derecho a un entorno seguro, libre de ciberacoso. Disfruta de tu libertad de expresión de forma respetuosa y no olvides tu derecho a la desconexión (¡descansa de las pantallas!).</li>
+<li><strong>Protege tus Datos Personales: </strong>Cuida tu huella digital, crea contraseñas fuertes (mezclando letras, números y símbolos) y configura la privacidad al máximo.</li>
+</ul>
+<p><a href="https://canva.link/wafsbfyfh77kajm">https://canva.link/wafsbfyfh77kajm</a></p>
+<p><img src="{{context_path}}/content/resources/2.3. Licencias y seguridad Jesus Martin Fernandez.png" width="1536" height="864" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576247685-6gj0qcl9s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este espacio aprenderemos las reglas de oro para cuidarnos en internet:</p>\n<ul>\n<li><strong>Crea y Comparte con Responsabilidad (Licencias): </strong>Respeta la autoría citando siempre la fuente original. Busca recursos libres (Creative Commons o Dominio Público) y recuerda licenciar tus propias creaciones porque ¡tú también eres autor/a!.</li>\n<li><strong>Derechos y Garantías Digitales:</strong> Tienes derecho a un entorno seguro, libre de ciberacoso. Disfruta de tu libertad de expresión de forma respetuosa y no olvides tu derecho a la desconexión (¡descansa de las pantallas!).</li>\n<li><strong>Protege tus Datos Personales: </strong>Cuida tu huella digital, crea contraseñas fuertes (mezclando letras, números y símbolos) y configura la privacidad al máximo.</li>\n</ul>\n<p><a href=\"https://canva.link/wafsbfyfh77kajm\">https://canva.link/wafsbfyfh77kajm</a></p>\n<p><img src=\"{{context_path}}/content/resources/2.3. Licencias y seguridad Jesus Martin Fernandez.png\" width=\"1536\" height=\"864\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2tnktp-1j33wz2mg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nuestro Reto Final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro Reto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro Reto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2tnktp-1j33wz2mg</odePageId>
+      <odeBlockId>block-1775576419555-tqxajccg6</odeBlockId>
+      <blockName>¡Hola, compañeros y compañeras! Nuestro Reto Final</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2tnktp-1j33wz2mg</odePageId>
+          <odeBlockId>block-1775576419555-tqxajccg6</odeBlockId>
+          <odeIdeviceId>idevice-1775576419553-q9o8mjvjt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el producto final de nuestra Situación de Aprendizaje (centrada en la seguridad digital, la protección de datos personales y el uso de licencias de contenido), vamos a utilizar Canva para Educación. El objetivo es que sistematicéis lo aprendido diseñando una infografía interactiva que sirva como "Guía de Buenas Prácticas en la Red" para el resto de la comunidad educativa. ¿Por qué usaremos esta herramienta?</p>
+<ol>
+<li><strong>Versatilidad y disponibilidad en el centro:</strong> Es una herramienta basada en la nube (no requiere instalación), lo que resulta ideal porque trabajamos con carritos de ordenadores portátiles/Chromebooks. Además, permite el trabajo colaborativo en tiempo real.<br /></li>
+<li><strong>Edad y competencia digital del alumnado: </strong>La interfaz intuitiva de "arrastrar y soltar" reduce la curva de aprendizaje técnico, permitiéndoos centraros en la calidad del contenido y no solo en el manejo de la aplicación.<br /></li>
+<li><strong>Opciones de accesibilidad (DUA): </strong>Canva permite añadir texto alternativo (Alt Text) a las imágenes generadas, cuenta con comprobadores de contraste de color, permite usar tipografías de alta legibilidad y exportar el diseño en PDF accesible para lectores de pantalla.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576419553-q9o8mjvjt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el producto final de nuestra Situación de Aprendizaje (centrada en la seguridad digital, la protección de datos personales y el uso de licencias de contenido), vamos a utilizar Canva para Educación. El objetivo es que sistematicéis lo aprendido diseñando una infografía interactiva que sirva como \"Guía de Buenas Prácticas en la Red\" para el resto de la comunidad educativa. ¿Por qué usaremos esta herramienta?</p>\n<ol>\n<li><strong>Versatilidad y disponibilidad en el centro:</strong> Es una herramienta basada en la nube (no requiere instalación), lo que resulta ideal porque trabajamos con carritos de ordenadores portátiles/Chromebooks. Además, permite el trabajo colaborativo en tiempo real.<br /></li>\n<li><strong>Edad y competencia digital del alumnado: </strong>La interfaz intuitiva de \"arrastrar y soltar\" reduce la curva de aprendizaje técnico, permitiéndoos centraros en la calidad del contenido y no solo en el manejo de la aplicación.<br /></li>\n<li><strong>Opciones de accesibilidad (DUA): </strong>Canva permite añadir texto alternativo (Alt Text) a las imágenes generadas, cuenta con comprobadores de contraste de color, permite usar tipografías de alta legibilidad y exportar el diseño en PDF accesible para lectores de pantalla.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2tnktq-sc5b33js5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos y Herramientas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y Herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y Herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2tnktq-sc5b33js5</odePageId>
+      <odeBlockId>block-1775576551938-ia8h4hq05</odeBlockId>
+      <blockName>Nuestra mochila digital</blockName>
+      <iconName>suitcase</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2tnktq-sc5b33js5</odePageId>
+          <odeBlockId>block-1775576551938-ia8h4hq05</odeBlockId>
+          <odeIdeviceId>idevice-1775576551937-j0f3kw8ub</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí tenéis las herramientas curadas para utilizar de forma segura en nuestro proyecto:</p>
+<ul>
+<li><strong>Para la comunidad y el aula (Padlet): </strong>Un muro interactivo para recopilar recursos e ideas sobre seguridad. <a href="https://padlet.com/jmarfer331l/recursos-seguridad-digital-8ob36tvt3qft4arq">https://padlet.com/jmarfer331l/recursos-seguridad-digital-8ob36tvt3qft4arq</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576551937-j0f3kw8ub","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí tenéis las herramientas curadas para utilizar de forma segura en nuestro proyecto:</p>\n<ul>\n<li><strong>Para la comunidad y el aula (Padlet): </strong>Un muro interactivo para recopilar recursos e ideas sobre seguridad. <a href=\"https://padlet.com/jmarfer331l/recursos-seguridad-digital-8ob36tvt3qft4arq\">https://padlet.com/jmarfer331l/recursos-seguridad-digital-8ob36tvt3qft4arq</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mo2tnktq-sc5b33js5</odePageId>
+          <odeBlockId>block-1775576551938-ia8h4hq05</odeBlockId>
+          <odeIdeviceId>idevice-1775576733946-diwcw8b6f</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/jmarfer331l/recursos-seguridad-digital-8ob36tvt3qft4arq" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mo2tnktq-sc5b33js5</odePageId>
+          <odeBlockId>block-1775576551938-ia8h4hq05</odeBlockId>
+          <odeIdeviceId>idevice-1775576840585-mz9z834zn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong title="">Para el alumnado (Symbaloo):</strong> Vuestro panel de control con accesos directos a bancos de imágenes, recursos con licencias CC y herramientas seguras. <a href="https://www.symbaloo.com/mix/symbaloo-mb3u">https://www.symbaloo.com/mix/symbaloo-mb3u</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576840585-mz9z834zn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong title=\"\">Para el alumnado (Symbaloo):</strong> Vuestro panel de control con accesos directos a bancos de imágenes, recursos con licencias CC y herramientas seguras. <a href=\"https://www.symbaloo.com/mix/symbaloo-mb3u\">https://www.symbaloo.com/mix/symbaloo-mb3u</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mo2tnktq-sc5b33js5</odePageId>
+          <odeBlockId>block-1775576551938-ia8h4hq05</odeBlockId>
+          <odeIdeviceId>idevice-1775577109872-riw6uv2vv</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.symbaloo.com/mix/symbaloo-mb3u" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2tnkts-6zwpbvynt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea Temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea Temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea Temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2tnkts-6zwpbvynt</odePageId>
+      <odeBlockId>block-1775820850863-fja5gf5us</odeBlockId>
+      <blockName>Nuestro Plan de Vuelo (Temporalización)</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2tnkts-6zwpbvynt</odePageId>
+          <odeBlockId>block-1775820850863-fja5gf5us</odeBlockId>
+          <odeIdeviceId>idevice-1775820850861-y6fr5d4ek</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestra aventura está organizada en los siguientes pasos:</p>
+<ul>
+<li><strong>Paso 1: </strong>¡Preparativos y Superpoderes Técnicos! Introducción de nuestro mini-tutorial de "hackers éticos" para gestionar permisos en el navegador y repaso de conceptos clave. (1 sesión) .</li>
+<li><strong>Paso 2: </strong>¡A los Teclados! Aprendemos a manejar Canva de forma colaborativa y comenzamos a diseñar nuestra guía de buenas prácticas.</li>
+<li><strong>Paso 3:</strong> Desarrollo de Contenidos. Inserción de la información sobre licencias, netiqueta y derechos digitales en la infografía.</li>
+<li><strong>Paso 4:</strong> ¡Gran estreno! Retoques finales y presentación de nuestra "Guía de Buenas Prácticas" al resto de la comunidad.</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/7.1. Línea temporal para la organización. Jesus Martin.png" width="1536" height="1086" alt="" /><a href="https://canva.link/gq7v54i2aznyycm">https://canva.link/gq7v54i2aznyycm</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775820850861-y6fr5d4ek","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestra aventura está organizada en los siguientes pasos:</p>\n<ul>\n<li><strong>Paso 1: </strong>¡Preparativos y Superpoderes Técnicos! Introducción de nuestro mini-tutorial de \"hackers éticos\" para gestionar permisos en el navegador y repaso de conceptos clave. (1 sesión) .</li>\n<li><strong>Paso 2: </strong>¡A los Teclados! Aprendemos a manejar Canva de forma colaborativa y comenzamos a diseñar nuestra guía de buenas prácticas.</li>\n<li><strong>Paso 3:</strong> Desarrollo de Contenidos. Inserción de la información sobre licencias, netiqueta y derechos digitales en la infografía.</li>\n<li><strong>Paso 4:</strong> ¡Gran estreno! Retoques finales y presentación de nuestra \"Guía de Buenas Prácticas\" al resto de la comunidad.</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/7.1. Línea temporal para la organización. Jesus Martin.png\" width=\"1536\" height=\"1086\" alt=\"\" /><a href=\"https://canva.link/gq7v54i2aznyycm\">https://canva.link/gq7v54i2aznyycm</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2tnktt-jczdfbdpl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2tnktt-jczdfbdpl</odePageId>
+      <odeBlockId>block-1775820995234-6a0frnb45</odeBlockId>
+      <blockName>Guía Didáctica</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2tnktt-jczdfbdpl</odePageId>
+          <odeBlockId>block-1775820995234-6a0frnb45</odeBlockId>
+          <odeIdeviceId>idevice-1775820995231-1u5dzm0gi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Tareas y Criterios de Evaluación Relacionados:</strong></p>
+<ul>
+<li><em><strong>Tarea de Entrenamiento Hacker Ético:</strong></em> Evaluada a través del CE.5.1 (reflexionar sobre el funcionamiento e idiomas) y el CE.6.2 (utilizar recursos digitales de forma responsable y respetando la propiedad intelectual).</li>
+<li><strong><em>Tarea de Creación (Drafting): </em></strong>Evaluada con el CE.2.2 (redactar y editar textos en soportes digitales, respetando la propiedad intelectual).</li>
+</ul>
+<p><strong>2. Instrumentos de Evaluación Aplicados:</strong></p>
+<ul>
+<li><strong>Rúbrica de Evaluación (Heteroevaluación):</strong> Se aplica en la fase del "Gran estreno". Evalúa aspectos de Competencia Lingüística y de Competencia Digital (uso de la herramienta de diseño, resolución de problemas técnicos).</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/Captura.PNG" width="748" height="699" alt="" /></p>
+<ul>
+<li><strong>Diana de Autoevaluación (Coevaluación): </strong>Se utiliza al finalizar las fases de diseño para que el alumnado autoevalúe el trabajo en equipo, la resolución de problemas y la responsabilidad digital (midiendo variables clave del currículo oculto).</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/Captura1.PNG" width="735" height="521" alt="" /></p>
+<p><strong>3. Observaciones y DUA: </strong></p>
+<ul>
+<li>Apoyándonos en rutinas de pensamiento previas (Tarea 1.1), se establece que para evitar la frustración técnica, cada proyecto digital debe iniciar con un "minitutorial" técnico, apoyándose en la accesibilidad intrínseca que nos proporcionan plataformas como Canva.</li>
+</ul>
+<p><a href="https://docs.google.com/document/d/1q6Xg0sw7UQ3VIgMg_SX3XxgHckqxyYw76zZqQ-Juu1k/edit?usp=sharing">https://docs.google.com/document/d/1q6Xg0sw7UQ3VIgMg_SX3XxgHckqxyYw76zZqQ-Juu1k/edit?usp=sharing</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775820995231-1u5dzm0gi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Tareas y Criterios de Evaluación Relacionados:</strong></p>\n<ul>\n<li><em><strong>Tarea de Entrenamiento Hacker Ético:</strong></em> Evaluada a través del CE.5.1 (reflexionar sobre el funcionamiento e idiomas) y el CE.6.2 (utilizar recursos digitales de forma responsable y respetando la propiedad intelectual).</li>\n<li><strong><em>Tarea de Creación (Drafting): </em></strong>Evaluada con el CE.2.2 (redactar y editar textos en soportes digitales, respetando la propiedad intelectual).</li>\n</ul>\n<p><strong>2. Instrumentos de Evaluación Aplicados:</strong></p>\n<ul>\n<li><strong>Rúbrica de Evaluación (Heteroevaluación):</strong> Se aplica en la fase del \"Gran estreno\". Evalúa aspectos de Competencia Lingüística y de Competencia Digital (uso de la herramienta de diseño, resolución de problemas técnicos).</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/Captura.PNG\" width=\"748\" height=\"699\" alt=\"\" /></p>\n<ul>\n<li><strong>Diana de Autoevaluación (Coevaluación): </strong>Se utiliza al finalizar las fases de diseño para que el alumnado autoevalúe el trabajo en equipo, la resolución de problemas y la responsabilidad digital (midiendo variables clave del currículo oculto).</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/Captura1.PNG\" width=\"735\" height=\"521\" alt=\"\" /></p>\n<p><strong>3. Observaciones y DUA: </strong></p>\n<ul>\n<li>Apoyándonos en rutinas de pensamiento previas (Tarea 1.1), se establece que para evitar la frustración técnica, cada proyecto digital debe iniciar con un \"minitutorial\" técnico, apoyándose en la accesibilidad intrínseca que nos proporcionan plataformas como Canva.</li>\n</ul>\n<p><a href=\"https://docs.google.com/document/d/1q6Xg0sw7UQ3VIgMg_SX3XxgHckqxyYw76zZqQ-Juu1k/edit?usp=sharing\">https://docs.google.com/document/d/1q6Xg0sw7UQ3VIgMg_SX3XxgHckqxyYw76zZqQ-Juu1k/edit?usp=sharing</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo2tnktt-k1zn5h7w4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo2tnktt-k1zn5h7w4</odePageId>
+      <odeBlockId>block-1775821179716-uqsfzrnty</odeBlockId>
+      <blockName>Créditos y Descarga</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo2tnktt-k1zn5h7w4</odePageId>
+          <odeBlockId>block-1775821179716-uqsfzrnty</odeBlockId>
+          <odeIdeviceId>idevice-1775821179714-w0jvmso42</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Autoría:</strong> Jesús Martín Fernández</li>
+<li><strong>Descripción del Recurso: </strong>Proyecto final creado para el curso de Competencia Digital Docente Nivel B2.</li>
+<li><strong>Licencia de uso:</strong> Este recurso se comparte bajo una licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775821179714-w0jvmso42","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Autoría:</strong> Jesús Martín Fernández</li>\n<li><strong>Descripción del Recurso: </strong>Proyecto final creado para el curso de Competencia Digital Docente Nivel B2.</li>\n<li><strong>Licencia de uso:</strong> Este recurso se comparte bajo una licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mo2tnktt-k1zn5h7w4</odePageId>
+          <odeBlockId>block-1775821179716-uqsfzrnty</odeBlockId>
+          <odeIdeviceId>idevice-1776424295521-k1yor0svk</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">My Daily Digital Life: Ciudadanía Digital y Rutinas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje centrada en la seguridad digital, protección de datos y uso de licencias, donde el alumnado diseñará una infografía interactiva que sirva de guía de buenas prácticas.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Jesús Martín Fernández</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
